@@ -4,3 +4,16 @@
     padding: 1%;
     text-align: center;
 }
+
+.flexbox-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.flexbox-1 img{
+    width: 200px;
+    height: 200px;
+    padding: 10px
+}
